@@ -7,7 +7,7 @@ Work Experience
 
 
 Education
-
+McIntosh High School
 
 
 Extracurriculurs
