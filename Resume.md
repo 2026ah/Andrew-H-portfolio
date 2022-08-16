@@ -1,8 +1,8 @@
-#Andrew Hausner's Resume
+# Andrew Hausner's Resume
 
 
 
-##Work Experience 
+## Work Experience 
 Taking out the trash
 Volunteered as a waiter
 Volunteered at a soup kitchen
@@ -10,12 +10,12 @@ Worked at a hotel before
 
 
 
-##Education
+## Education
 McIntosh High School
 Booth Middle School
 
 
-##Hobbies
+## Hobbies
 I edit videos and photos for friends
 Video games
 Piano
