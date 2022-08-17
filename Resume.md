@@ -20,3 +20,4 @@
 - Video games
 - Piano
 - Pickleball
+- Beaten Metal Gear Rising Revengance on hardest difficulty
