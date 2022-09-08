@@ -5,4 +5,4 @@ Hello my name is Andrew. This is my profile for IST. Yay. At Mcintosh High Schoo
 
 ## Contents
 - [Resume](Resume.md)  
-- [Truth Tables](Binary Logic.md)
+- [Truth Tables](Binary-Logic.md)
