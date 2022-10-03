@@ -21,3 +21,7 @@
 - Piano
 - Pickleball
 - Beaten Metal Gear Rising Revengance on hardest difficulty
+
+## Typing Speed
+- Very high
+- above 3.2
