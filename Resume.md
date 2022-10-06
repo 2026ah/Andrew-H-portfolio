@@ -24,6 +24,6 @@
 
 ## Typing Skills
 - Keys Learned
-  - J, F, Space, U, R, K, D, E, I, C, G, N, T, S, L, O, B, A, V, H, M, period, comma, 
+  - J, F, Space, U, R, K, D, E, I, C, G, N, T, S, L, O, B, A, V, H, M, period, comma, W, X, ;, Q, Y, P, Z, enter
 - Typing Speed
   - 48 wpm
